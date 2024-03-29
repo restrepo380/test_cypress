@@ -37,22 +37,22 @@ General implementation details
 Test scenarios are created in files with .cy.js ending. These files support JavaScript code and Cypress methods. This test uses the POM design pattern in which the elements and actions of the actors are divided by pages.
 
 
-   📦prueba_tecnica_cypress
-   ┣  📂cypress
-   ┃  ┣ 📂 downloads
-   ┃  ┣ 📂 e2e
-   ┃  ┃ ┃ ┣ 📂Constants
-   ┃  ┃ ┃ ┣ 📂Data
-   ┃  ┃ ┃ ┣ 📂Elements
-   ┃  ┃ ┃ ┣ 📂Pages
-   ┃  ┃ ┃ ┣ 📂Test
-   ┃  ┃ ┃ ┣ 📂Utils  
-   ┃  ┃ ┃       
-   ┃  ┣ 📂Fixtures
-   ┃  ┣ 📂Support
-   ┣  📜cypress.config.js
-   ┣  📜package-lock.json
-   ┣  📜package.json
+📦prueba_tecnica_cypress
+┣  📂cypress
+┃  ┣ 📂 downloads
+┃  ┣ 📂 e2e
+┃  ┃ ┃ ┣ 📂Constants
+┃  ┃ ┃ ┣ 📂Data
+┃  ┃ ┃ ┣ 📂Elements
+┃  ┃ ┃ ┣ 📂Pages
+┃  ┃ ┃ ┣ 📂Test
+┃  ┃ ┃ ┣ 📂Utils  
+┃  ┃ ┃       
+┃ ┣ 📂Fixtures
+┃ ┣ 📂Support
+┣  📜cypress.config.js
+┣  📜package-lock.json
+┣  📜package.json
 
 
 
