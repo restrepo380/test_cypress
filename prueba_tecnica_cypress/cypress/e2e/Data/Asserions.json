@@ -1,0 +1,5 @@
+{
+    "textErrorLoginAssertion":"Epic sadface: Username and password do not match any user in this service",
+    "textSuccessfulLoginAssertion":"Products",
+    "textSuccessfulBuyAssertion":"Thank you for your order!"
+}
