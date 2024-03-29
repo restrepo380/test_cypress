@@ -14,6 +14,7 @@ describe("Buy flow", ()=>{
         NavegateTo.navegateTo(Data.ulrSauceDemo)
         Cypress.on('uncaught:exception', (err, runnable) => {
             return false
+            
         });
         LoginHerlper.insertUsername(DataCredentials.username)
         LoginHerlper.insertPassword(DataCredentials.password)
