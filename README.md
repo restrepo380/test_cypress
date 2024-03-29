@@ -36,6 +36,7 @@ General implementation details
 
 Test scenarios are created in files with .cy.js ending. These files support JavaScript code and Cypress methods. This test uses the POM design pattern in which the elements and actions of the actors are divided by pages.
 
+
    📦prueba_tecnica_cypress
    ┣ 📂cypress
    ┃ ┣ 📂 downloads
@@ -52,6 +53,10 @@ Test scenarios are created in files with .cy.js ending. These files support Java
    ┣ 📜cypress.config.js
    ┣ 📜package-lock.json
    ┣ 📜package.json
+
+
+
+   
 
 cypress/e2e/Constants: This folder contains the file the class with constant methods in the test.
 
