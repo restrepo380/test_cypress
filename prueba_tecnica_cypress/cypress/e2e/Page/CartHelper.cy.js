@@ -4,6 +4,7 @@ export class CartHelper{
 
     static clickOnButtonRemove(num){
         CartPageElements.elements.buttonRemove.eq(num).click()
+        
     }
 
     static verifyButtonRemove(){
