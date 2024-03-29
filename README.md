@@ -38,21 +38,21 @@ Test scenarios are created in files with .cy.js ending. These files support Java
 
 
    📦prueba_tecnica_cypress
-   ┣ 📂cypress
-   ┃ ┣ 📂 downloads
-   ┃ ┣ 📂 e2e
-   ┃ ┃ ┃ ┣ 📂Constants
-   ┃ ┃ ┃ ┣ 📂Data
-   ┃ ┃ ┃ ┣ 📂Elements
-   ┃ ┃ ┃ ┣ 📂Pages
-   ┃ ┃ ┃ ┣ 📂Test
-   ┃ ┃ ┃ ┣ 📂Utils  
-   ┃ ┃ ┃       
-   ┃ ┣ 📂Fixtures
-   ┃ ┣ 📂Support
-   ┣ 📜cypress.config.js
-   ┣ 📜package-lock.json
-   ┣ 📜package.json
+   ┣  📂cypress
+   ┃  ┣ 📂 downloads
+   ┃  ┣ 📂 e2e
+   ┃  ┃ ┃ ┣ 📂Constants
+   ┃  ┃ ┃ ┣ 📂Data
+   ┃  ┃ ┃ ┣ 📂Elements
+   ┃  ┃ ┃ ┣ 📂Pages
+   ┃  ┃ ┃ ┣ 📂Test
+   ┃  ┃ ┃ ┣ 📂Utils  
+   ┃  ┃ ┃       
+   ┃  ┣ 📂Fixtures
+   ┃  ┣ 📂Support
+   ┣  📜cypress.config.js
+   ┣  📜package-lock.json
+   ┣  📜package.json
 
 
 
