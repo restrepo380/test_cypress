@@ -1,9 +1,3 @@
-# test_cypressAutomation project with Cypress
-This repository contains an Automation test for frontend with the Cypress framework.
-
-Table of Contents
-Introduction
-First steps
 Test execution
 General implementation details
 
